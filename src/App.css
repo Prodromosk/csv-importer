@@ -1,0 +1,38 @@
+.app {
+  background-color: #f1f2f5;
+}
+
+.app__body {
+  display: flex;
+  padding-top: 10px;
+}
+
+.app__input {
+  display: flex;
+  align-items: center;
+  background-color: #eff2f5;
+  padding: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-radius: 999px;
+  border: none;
+  outline-width: 0;
+}
+
+.app__input {
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  z-index: 100;
+  top: 0;
+}
+
+.app__button {
+  display: flex;
+  align-items: center;
+  margin-left: 10px !important;
+}
+
+.app__export {
+  display: flex;
+}
