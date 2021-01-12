@@ -21,7 +21,7 @@ function App() {
   const csvReport = {
     data: inputList,
     headers: headers,
-    filename: 'importLeoJackpotGames.csv'
+    filename: 'importGames.csv'
   };
 
   // handle input change
